@@ -130,3 +130,7 @@ insatisfacción en las personas.
 
 Queda también en el repositorio un jupyter notebook que da más información sobre las simulaciones
 incluyendo gráficos no mostrados acá que ayudan a entender mejor los datos.
+
+Link al repositorio:
+
+https://github.com/AlejandroLabourdette/kojos-kitchen
